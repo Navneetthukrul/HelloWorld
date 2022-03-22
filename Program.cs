@@ -10,7 +10,10 @@ namespace HelloWorld
             Console.WriteLine("Hello Worldline");
             Console.WriteLine("Hello Global");
 
+
             Console.WriteLine("World");
+            
+             Console.WriteLine("Hello");
         }
     }
 }
